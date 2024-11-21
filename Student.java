@@ -2,6 +2,6 @@ public class Student {
     String sno,sname;
     Student()
     {
-        System.out.println("constructor");
+        System.out.println("constructor.....");
     }
 }
